@@ -3,15 +3,7 @@
 <h1 align="center">sandrodev/golang-hello</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://fullcycle.com.br" target="_blank">fullcycle.com.br</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-  </h3>
+   Solution for a challenge from FullCycle</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -42,7 +34,7 @@ The challenge is to create a image with a golang application that returns the me
 
 ## How To Use
 
-To download and run this container application, you'll need [Docker](https://www.docker.com/) and an account in the [Docker Hub](https://hub.docker.com). From your command line:
+To download and run this container application, you'll need the [Docker](https://www.docker.com/) (Docker Native or Docker Desktop). From your command line:
 
 ```bash
 # Download the image to run a container from docker hub
